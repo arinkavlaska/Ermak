@@ -388,7 +388,7 @@ h2 { font-size: 60px; margin-bottom: 30px; }
     /* TITLE */
 
     h1{
-        font-size:50px;
+        font-size:30px;
         line-height:0.95;
 
         margin-bottom:20px;
@@ -432,7 +432,7 @@ h2 { font-size: 60px; margin-bottom: 30px; }
     }
 
     .btn span{
-        font-size:12px;
+        font-size:7px;
     }
 
     /* FEATURES */
